@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\BaiduNetdiskDownload\\day14\\前端代码\\pages\\player"
+		},
+		{
+			"path": "..\\BaiduNetdiskDownload\\day16\\前端代码\\前台系统前端\\pages\\pay"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "zaixianqianduan"
+	}
+}
